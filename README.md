@@ -4,8 +4,6 @@ An interactive Power BI dashboard that analyses why employees leave. It breaks a
 
 Dashboard <img width="1008" height="568" alt="image" src="https://github.com/user-attachments/assets/05e428c5-87d8-4101-ad69-26bdb8ba7ff5" />
 
-**Live Dashboard:** <add your Power BI Service / published link here>
-
 ## Business Problem
 Employee turnover is expensive. HR leaders need to know **who is leaving, where, and why**, so they can reduce attrition with targeted actions instead of blanket policies.
 
