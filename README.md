@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyses why employees leave. It breaks attrition down by age group, salary slab, job role, education field, gender, tenure and department, so HR can focus retention efforts where they matter most.
 
-![Dashboard](<img width="1008" height="568" alt="image" src="https://github.com/user-attachments/assets/05e428c5-87d8-4101-ad69-26bdb8ba7ff5" />)
+![Dashboard]<img width="1008" height="568" alt="image" src="https://github.com/user-attachments/assets/05e428c5-87d8-4101-ad69-26bdb8ba7ff5" />
 
 **Live Dashboard:** <add your Power BI Service / published link here>
 
